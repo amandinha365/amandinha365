@@ -2,7 +2,7 @@
 
 meu nome é Amandinha 
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura;](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript
 - Utilizo esse espasso para minha organização e compartilhamento dos meus projetos desenvolvidos
 
